@@ -262,7 +262,7 @@ export const testimonialData = {
 export const walletExperience = {
   slogan: 'Ultimate Short Term Travel Design',
   title: 'A new way of offering Short Term Rentals',
-  desc: `Short term rentals should be easy to access, through a smart phone, clean and the best locations, and that is what Residence Club is.`,
+  desc: `Short term rentals should be easy to access, through a smart phone, clean and the best locations, and that is what Satori Club is.`,
   thumb: walletImage,
   features: [
     {
@@ -543,7 +543,7 @@ export const footerTop = {
     },
     {
       id: 4,
-      title: 'Residence Club',
+      title: 'Satori Club',
       list: [
         {
           id: 1,

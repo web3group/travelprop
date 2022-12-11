@@ -22,7 +22,7 @@ const EverNeed = (props) => {
   return (
     <section {...props}>
 			<SectionHeading>
-					<Heading content="Residence Club our commercial brand is offering:" />
+					<Heading content="Satori Club our commercial brand is offering:" />
 			</SectionHeading>
 
 			{/* Upper 991 */}
