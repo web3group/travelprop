@@ -26,7 +26,7 @@ const appCreativeTwo = () => {
     <ThemeProvider theme={theme}>
       <Fragment>
         <Head>
-          <title>TravelProp | A Utility Royalty Token</title>
+          <title>Satori | A Utility Royalty Token</title>
           <meta name="Description" content="React next landing page" />
           <meta name="theme-color" content="#ec5555" />
           {/* Load google fonts */}
