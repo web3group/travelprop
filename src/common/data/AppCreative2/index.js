@@ -459,7 +459,7 @@ export const faqs = [
   {
     id: 3,
     title: 'How are Royalties paid out??',
-    description: `From the dashboard you can choose 3 options, Crypto, Wire Tranfser or Travel crdeits at 1.5X to the earnings. `,
+    description: `From the dashboard you can choose 3 options, Crypto, Wire Tranfser or Travel credits at 1.5X to the earnings. `,
   },
   {
     id: 4,
