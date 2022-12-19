@@ -125,7 +125,7 @@ export const whyChooseUs = [
     title: 'Buy the Token',
     text: `Buy the Token to earn benefits`,
     linkLabel: 'Buy TPRO now',
-    link: 'https://token.satori.club/register',
+    link: 'https://token.residenceclub.co/register',
   },
   {
     id: 3,
@@ -158,7 +158,7 @@ export const analyticsTool = {
     'Full transparency',
   ],
   button: {
-    link: 'https://token.satori.club/register',
+    link: 'https://token.residenceclub.co/register',
     label: 'Buy the Token',
   },
 };
@@ -262,7 +262,7 @@ export const testimonialData = {
 export const walletExperience = {
   slogan: 'Ultimate Short Term Travel Design',
   title: 'A new way of offering Short Term Rentals',
-  desc: `Short term rentals should be easy to access, through a smart phone, clean and the best locations, and that is what Satori Club is.`,
+  desc: `Short term rentals should be easy to access, through a smart phone, clean and the best locations, and that is what Residence Club is.`,
   thumb: walletImage,
   features: [
     {
@@ -284,7 +284,7 @@ export const walletExperience = {
 // Technology Community data section
 /* ------------------------------------ */
 export const technologyCommunity = {
-  slogan: 'Join the Satori Club Community',
+  slogan: 'Join the Residence Club Community',
   title: 'As a token holder you gain exclusive access to our community.',
   desc: `You get to be a part of knowing what happens, how we design the process and vote on new locations.`,
   thumb: technologyImage,
@@ -474,10 +474,10 @@ export const faqs = [
 /* ------------------------------------ */
 export const callToAction = {
   title: 'Earn 40% on Short Term Rentals today!',
-  content: 'But the TPRO Token and earn 40% Royalties on bookins and earn travel rewards with Satori Club.',
+  content: 'But the TPRO Token and earn 40% Royalties on bookins and earn travel rewards with Residence Club.',
   button: {
     label: 'Buy the Token',
-    link: 'https://token.satori.club/register'
+    link: 'https://token.residenceclub.co/register'
   },
   info: 'Crypt, Fiat or Credit Card'
 };
@@ -543,7 +543,7 @@ export const footerTop = {
     },
     {
       id: 4,
-      title: 'Satori Club',
+      title: 'Residence Club',
       list: [
         {
           id: 1,
@@ -562,7 +562,7 @@ export const footerTop = {
   contactInfo: {
     title: 'Contact info',
     address: `6300 Zug, Switzerland`,
-    email: `info@satori.club`,
+    email: `info@residenceclub.co`,
   },
 };
 
@@ -570,7 +570,7 @@ export const footerTop = {
 // Footer data section
 /* ------------------------------------ */
 export const footer = {
-  copyright: `Copyright © 2022 Satori Club in Switzerland. All rights reserved`,
+  copyright: `Copyright © 2022 Residence Club in Switzerland. All rights reserved`,
   nav: [
 
     {

@@ -15,7 +15,7 @@ const WhyYouChoose = (props) => {
     <Section id="about" {...props}>
       <Container width="1400px">
         <SectionHeading>
-          <Heading content="What is Satori Fund I?" />
+          <Heading content="What is Residence Club Fund I?" />
         </SectionHeading>
         <Grid>
           {whyChooseUs?.map((howTo) => (
