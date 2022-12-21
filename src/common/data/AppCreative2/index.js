@@ -605,8 +605,8 @@ export const footer = {
     {
       id: 3,
       link: 'http://dribbble.com',
-      icon: dribbble,
-      label: 'Dribbble',
+      icon: discord,
+      label: 'Discord',
     },
   ],
 };
