@@ -97,12 +97,7 @@ export const bannerData = {
       thumb: googlePlay,
       link: 'https://invest.residenceclub.co/Residence_Club_WhitePaper.pdf',
     },
-    {
-      id: 2,
-      title: 'Video',
-      thumb: appleStore,
-      link: 'https://play.google.com/store',
-    },
+  
 
   ],
 };
