@@ -285,7 +285,7 @@ export const technologyCommunity = {
   thumb: technologyImage,
   button: {
     label: 'Join Discord',
-    link: 'https://discord.gg/x7ASdav72e',
+    link: 'https://discord.com/invite/V56P6tUMn4',
   },
 };
 
@@ -503,7 +503,7 @@ export const footerTop = {
         {
           id: 3,
           title: 'About Us',
-          link: '#',
+          link: 'https://residenceclub.co/?page_id=15427',
         },
 
       ],
@@ -516,7 +516,7 @@ export const footerTop = {
         {
           id: 1,
           title: 'Affiliates',
-          link: '#',
+          link: 'https://token.travelprop.co/register',
         },
         {
           id: 2,
@@ -581,7 +581,7 @@ export const footer = {
     {
       id: 3,
       title: 'Affiliates',
-      link: '#',
+      link: 'https://token.travelprop.co/register',
     },
   ],
   socialLinks: [
