@@ -95,7 +95,7 @@ export const bannerData = {
       id: 1,
       title: 'White Paper',
       thumb: googlePlay,
-      link: 'https://play.google.com/store',
+      link: 'https://invest.residenceclub.co/Residence_Club_WhitePaper.pdf',
     },
     {
       id: 2,
