@@ -117,7 +117,7 @@ export const whyChooseUs = [
     title: '40% Royalties from Bookings',
     text: `Earn high yields on your token, based on real appartments`,
     linkLabel: 'Start Earning',
-    link: '#',
+    link: 'https://token.residenceclub.co/register',
   },
   {
     id: 2,
@@ -133,7 +133,7 @@ export const whyChooseUs = [
     title: 'Monitor Revenue',
     text: `See bookings, and royalties directly in the dashboard.`,
     linkLabel: 'Login',
-    link: '#',
+    link: 'https://token.residenceclub.co/register',
   },
   {
     id: 4,
@@ -141,7 +141,7 @@ export const whyChooseUs = [
     title: 'Convert Royalties to Vacations',
     text: `Convert bookings at 1.5X to redeem to vacations.`,
     linkLabel: 'Login',
-    link: '#',
+    link: 'https://token.residenceclub.co/register',
   },
 ];
 
