@@ -290,7 +290,7 @@ export const technologyCommunity = {
   thumb: technologyImage,
   button: {
     label: 'Join Discord',
-    link: '#',
+    link: 'https://discord.gg/x7ASdav72e',
   },
 };
 
