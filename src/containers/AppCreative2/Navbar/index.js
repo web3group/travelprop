@@ -74,7 +74,7 @@ const Navbar = ({ navbarStyle, logoStyle, button, row, menuWrapper }) => {
                     Buy Token
                   </a>
                 </Link>
-                <Link href="https://token.travelprop.co/register">
+                <Link href="https://discord.com/invite/V56P6tUMn4">
                   <a className="navbar_button navbar_button_two">
                     Join Discord
                   </a>
