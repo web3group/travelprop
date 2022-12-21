@@ -97,7 +97,7 @@ export const bannerData = {
       thumb: googlePlay,
       link: 'https://invest.residenceclub.co/Residence_Club_WhitePaper.pdf',
     },
-  
+
 
   ],
 };
